@@ -29,8 +29,8 @@ docker-compose up -d
 yarn start:dev
 ```
 
-## Populate DB
+## Reconstruir la base de datos con la semilla
 
 ```
-http://localhost:3000/seed
+http://localhost:3000/api/seed
 ```
